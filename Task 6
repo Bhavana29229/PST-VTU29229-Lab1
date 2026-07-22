@@ -1,3 +1,5 @@
+Task6-Digitsum opt:sum of even or odd digits
+
 import java.util.Scanner;
 
 interface DigitSum {
